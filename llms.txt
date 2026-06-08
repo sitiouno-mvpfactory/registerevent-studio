@@ -1,0 +1,21 @@
+# RegisterEvent
+
+## Resumen del Producto
+RegisterEvent es una potente herramienta de gestión diseñada para instituciones educativas, enfocada en optimizar las inscripciones a talleres y eventos. Desarrollada bajo el entorno de MVP Factory Studio, la plataforma profesionaliza la logística institucional garantizando el control automático de capacidad y la precisión en los datos de registro.
+
+## Características Principales
+- **Verificación OTP**: Envío de códigos de un solo uso para asegurar la exactitud de los correos electrónicos de los estudiantes en sesiones recurrentes.
+- **Gestión Automatizada de Capacidad**: Control de los límites de asistentes y transferencia automática del exceso de registros a una lista de espera ilimitada para oyentes.
+- **Confirmaciones Instantáneas**: Automatización en la gestión de participantes con correos electrónicos de confirmación enviados de inmediato tras el registro.
+- **Integración Técnica Avanzada**: Arquitectura preparada para el futuro con REST API nativa, Webhooks para suscripción a eventos en tiempo real y un Servidor MCP (Model Context Protocol) para integración directa con modelos de lenguaje y agentes de IA.
+
+## Estructura de Precios
+- **Plan Básico**: Gratuito. Incluye hasta 100 inscripciones al mes, formularios estándar y control básico de capacidad.
+- **Institucional Pro**: €49/mes. Incluye inscripciones ilimitadas, verificación OTP por correo, listas de espera automatizadas y acceso completo a REST API, Servidor MCP y Webhooks.
+
+## Información Técnica y Metadatos
+- **URL del Producto**: https://mvpfactory.studio/p/registerevent
+- **Dominio**: mvpfactory.studio
+- **Repositorio/Servicio**: registerevent-studio
+- **Desarrollador / Perfil GitHub**: sitiouno
+- **Color Principal de Marca**: #2563EB (Azul)
